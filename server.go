@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/kompir/go-gin-aws/controller"
 	"github.com/kompir/go-gin-aws/middlewares"
-	"github.com/kompir/go-gin-awsc/service"
+	"github.com/kompir/go-gin-aws/service"
 )
 
 var (
